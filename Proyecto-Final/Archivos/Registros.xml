@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registros>
+    <llamada>
+        <contacto>Juan Pérez</contacto>
+        <compañia>Compañía A</compañia>
+        <horario>10:30 AM</horario>
+        <zona>3</zona>
+        <ISBN>ISBN011</ISBN>
+    </llamada>
+    <llamada>
+        <contacto>María López</contacto>
+        <compañia>Compañía B</compañia>
+        <horario>2:45 PM</horario>
+        <zona>1</zona>
+        <ISBN>ISBN000</ISBN>
+    </llamada>
+    <llamada>
+        <contacto>Carlos González</contacto>
+        <compañia>Compañía C</compañia>
+        <horario>8:15 AM</horario>
+        <zona>4</zona>
+        <ISBN>ISBN0077</ISBN>
+    </llamada>
+    <llamada>
+        <contacto>Sofía Torres</contacto>
+        <compañia>Compañía A</compañia>
+        <horario>5:20 PM</horario>
+        <zona>2</zona>
+        <ISBN>ISBN0004</ISBN>
+    </llamada>
+    <llamada>
+        <contacto>Pablo Rodríguez</contacto>
+        <compañia>Compañía B</compañia>
+        <horario>11:10 AM</horario>
+        <zona>3</zona>
+        <ISBN>ISBN0005</ISBN>
+    </llamada>
+    <llamada>
+        <contacto>Laura García</contacto>
+        <compañia>Compañía C</compañia>
+        <horario>7:30 PM</horario>
+        <zona>1</zona>
+        <ISBN>ISBN0006</ISBN>
+    </llamada>
+    <llamada>
+        <contacto>Miguel Sánchez</contacto>
+        <compañia>Compañía A</compañia>
+        <horario>9:45 AM</horario>
+        <zona>4</zona>
+        <ISBN>ISBN0007</ISBN>
+    </llamada>
+    <llamada>
+        <contacto>Ana Martínez</contacto>
+        <compañia>Compañía B</compañia>
+        <horario>4:05 PM</horario>
+        <zona>2</zona>
+        <ISBN>ISBN0008</ISBN>
+    </llamada>
+    <llamada>
+        <contacto>Javier Torres</contacto>
+        <compañia>Compañía C</compañia>
+        <horario>10:20 AM</horario>
+        <zona>3</zona>
+        <ISBN>ISBN0009</ISBN>
+    </llamada>
+    <llamada>
+        <contacto>Luisa Gómez</contacto>
+        <compañia>Compañía A</compañia>
+        <horario>6:15 PM</horario>
+        <zona>1</zona>
+        <ISBN>ISBN0010</ISBN>
+    </llamada>
+</registros>
